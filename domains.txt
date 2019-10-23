@@ -1,0 +1,25 @@
+! Title: Custom blocked domains
+! Expires: 1 days (update frequency)
+! License: http://creativecommons.org/licenses/by-sa/4.0/
+
+!block whole domains
+
+||nadavi.ru^
+
+||jivosite.com^
+
+||ok.ru^
+||www.odnoklassniki.ru^
+||odnoklassniki.ru^
+
+||facebook.com^
+
+||sendsay.ru^
+
+||top100.ru^
+
+||mail.ru^
+
+||aflt.market.yandex.ru^
+||sovetnik.market.yandex.ru^
+||share.yandex.ru^
