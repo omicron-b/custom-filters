@@ -14,6 +14,8 @@
 
 ||facebook.com^
 
+||vk.com^
+
 ||sendsay.ru^
 
 ||top100.ru^
