@@ -1,25 +1,25 @@
 # This is a blocklist for Pi-hole.
 
-0.0.0.0 ok.ru
-0.0.0.0 www.odnoklassniki.ru
-0.0.0.0 odnoklassniki.ru
-0.0.0.0 mail.ru
-0.0.0.0 rs.mail.ru
-0.0.0.0 r3.mail.ru
-0.0.0.0 sp.mycdn.ru
-0.0.0.0 st.mycdn.ru
-0.0.0.0 pimg.mycdn.ru
-0.0.0.0 i.mycdn.ru
+ok.ru
+www.odnoklassniki.ru
+odnoklassniki.ru
+mail.ru
+rs.mail.ru
+r3.mail.ru
+sp.mycdn.ru
+st.mycdn.ru
+pimg.mycdn.ru
+i.mycdn.ru
 
-0.0.0.0 aflt.market.yandex.ru
-0.0.0.0 sovetnik.market.yandex.ru
-0.0.0.0 share.yandex.ru
-0.0.0.0 nadavi.ru
-0.0.0.0 bitrix.info
+aflt.market.yandex.ru
+sovetnik.market.yandex.ru
+share.yandex.ru
+nadavi.ru
+bitrix.info
 
-0.0.0.0 jivosite.com
-0.0.0.0 code.jivosite.com
-0.0.0.0 chat5-2.jivosite.com
-0.0.0.0 node341.jivosite.com
-0.0.0.0 files.jivosite.com
-0.0.0.0 telemetry.jivosite.com
+jivosite.com
+code.jivosite.com
+chat5-2.jivosite.com
+node341.jivosite.com
+files.jivosite.com
+telemetry.jivosite.com
