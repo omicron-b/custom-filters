@@ -25,3 +25,7 @@
 ||aflt.market.yandex.ru^
 ||sovetnik.market.yandex.ru^
 ||share.yandex.ru^
+
+!block ads
+
+mail.yandex.ru###bk-stripe
