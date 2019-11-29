@@ -11,6 +11,7 @@ st.mycdn.ru
 pimg.mycdn.ru
 i.mycdn.ru
 
+report.appmetrica.yandex.net
 rosenberg.appmetrica.yandex.net
 aflt.market.yandex.ru
 sovetnik.market.yandex.ru
