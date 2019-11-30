@@ -11,13 +11,18 @@ st.mycdn.ru
 pimg.mycdn.ru
 i.mycdn.ru
 
+# trackers
 report.appmetrica.yandex.net
 rosenberg.appmetrica.yandex.net
+traidet.com
+adtrak.org
+bitrix.info
+
+# adware
 aflt.market.yandex.ru
 sovetnik.market.yandex.ru
 share.yandex.ru
 nadavi.ru
-bitrix.info
 
 jivosite.com
 code.jivosite.com
