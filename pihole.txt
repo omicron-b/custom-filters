@@ -17,16 +17,55 @@ rosenberg.appmetrica.yandex.net
 traidet.com
 adtrak.org
 bitrix.info
+bethowenru.push.world
+api.flocktory.com
+rockcnt.com
+hit.acstat.com
+code.acstat.com
+track.adspire.io
+api.mindbox.ru
+mod.calltouch.ru
+tag.rutarget.ru
+whitesaas.com
+statad.ru
+cdn.envybox.io
+nicru.push.world
+nexus-websocket-a.intercom.io
+api-iam.intercom.io
+widget.intercom.io
+js.intercomcdn.com
+js.recurly.com
+api.recurly.com
+js.braintreegateway.com
+api.braintreegateway.com
+frontend-monitoring.services.citik.ru
+www.2lqcd8s9.de
+api.consultsystems.ru
+consultsystems.ru
+widget.mango-office.ru
+filters.adtidy.org
+get.shoppilot.ru
+lib.admon.pro
+track.segmentstream.com
+hb.bizmrg.com
+web.redhelper.ru
+tracking.epicgames.com
 
 # adware
 aflt.market.yandex.ru
 sovetnik.market.yandex.ru
 share.yandex.ru
+share.yandex.net
 nadavi.ru
+www.kupivkredit.ru
+my.zadarma.com
 
+# chats
 jivosite.com
 code.jivosite.com
 chat5-2.jivosite.com
 node341.jivosite.com
 files.jivosite.com
 telemetry.jivosite.com
+chat.chatra.io
+static.chatra.io
