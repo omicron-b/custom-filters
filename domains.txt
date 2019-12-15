@@ -25,6 +25,8 @@
 ||aflt.market.yandex.ru^
 ||sovetnik.market.yandex.ru^
 ||share.yandex.ru^
+||share.yandex.net^
+||zen.yandex.ru^
 
 !block ads
 
