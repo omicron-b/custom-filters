@@ -50,6 +50,7 @@ track.segmentstream.com
 hb.bizmrg.com
 web.redhelper.ru
 tracking.epicgames.com
+6cc62a7e.api.splkmobile.com
 
 # adware
 aflt.market.yandex.ru
