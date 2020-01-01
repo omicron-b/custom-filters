@@ -51,6 +51,7 @@ hb.bizmrg.com
 web.redhelper.ru
 tracking.epicgames.com
 6cc62a7e.api.splkmobile.com
+consent.cookiebot.com
 
 # adware
 aflt.market.yandex.ru
