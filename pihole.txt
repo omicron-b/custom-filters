@@ -61,6 +61,7 @@ share.yandex.net
 nadavi.ru
 www.kupivkredit.ru
 my.zadarma.com
+financelife.ru
 
 # chats
 jivosite.com
