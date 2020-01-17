@@ -62,6 +62,7 @@ nadavi.ru
 www.kupivkredit.ru
 my.zadarma.com
 financelife.ru
+bidder.criteo.com
 
 # chats
 jivosite.com
