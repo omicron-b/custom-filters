@@ -63,6 +63,10 @@ www.kupivkredit.ru
 my.zadarma.com
 financelife.ru
 bidder.criteo.com
+linkmaker.itunes.apple.com
+www.msn.com
+msn.com
+www.sdad.guru
 
 # chats
 jivosite.com
