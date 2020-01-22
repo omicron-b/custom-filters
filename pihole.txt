@@ -9,9 +9,13 @@ mail.ru
 rs.mail.ru
 r3.mail.ru
 sp.mycdn.ru
+sp.mycdn.me
 st.mycdn.ru
+st.mycdn.me
 pimg.mycdn.ru
+pimg.mycdn.me
 i.mycdn.ru
+i.mycdn.me
 
 # trackers
 report.appmetrica.yandex.net
