@@ -1,8 +1,10 @@
 # This is a blocklist for Pi-hole.
 
+www.ok.ru
 ok.ru
 www.odnoklassniki.ru
 odnoklassniki.ru
+www.mail.ru
 mail.ru
 rs.mail.ru
 r3.mail.ru
