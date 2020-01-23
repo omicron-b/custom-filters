@@ -74,6 +74,9 @@ www.msn.com
 msn.com
 www.sdad.guru
 
+# malware
+bitbucker.org
+
 # chats
 jivosite.com
 code.jivosite.com
