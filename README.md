@@ -1,2 +1,2 @@
 # custom-filters
-Custom filters for UBlock Origin and Pi-hole
+Custom filters for uBlock Origin and Pi-hole
