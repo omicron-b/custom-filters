@@ -49,7 +49,6 @@ www.2lqcd8s9.de
 api.consultsystems.ru
 consultsystems.ru
 widget.mango-office.ru
-filters.adtidy.org
 get.shoppilot.ru
 lib.admon.pro
 track.segmentstream.com
