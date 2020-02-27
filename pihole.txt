@@ -57,6 +57,8 @@ web.redhelper.ru
 tracking.epicgames.com
 6cc62a7e.api.splkmobile.com
 consent.cookiebot.com
+ulclick.ru
+sonar.semantiqo.com
 
 # adware
 aflt.market.yandex.ru
