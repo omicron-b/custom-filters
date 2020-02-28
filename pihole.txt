@@ -59,6 +59,11 @@ tracking.epicgames.com
 consent.cookiebot.com
 ulclick.ru
 sonar.semantiqo.com
+showme.htctouch.com
+dapi.hmdglobal.net
+www.pppefa.com
+www.ppmxfa.com
+www.forcis.claro.com.co
 
 # adware
 aflt.market.yandex.ru
@@ -87,3 +92,10 @@ files.jivosite.com
 telemetry.jivosite.com
 chat.chatra.io
 static.chatra.io
+
+# optimization
+# Reddit unofficial client Slide resolves these, but does not send any data
+# so we can block them for optimizing the client
+# see https://github.com/ccrama/Slide/issues/3129
+ccrama.me
+www.ccrama.me
