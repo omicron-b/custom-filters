@@ -64,6 +64,7 @@ dapi.hmdglobal.net
 www.pppefa.com
 www.ppmxfa.com
 www.forcis.claro.com.co
+pbs.alfasense.com
 
 # adware
 aflt.market.yandex.ru
@@ -79,6 +80,9 @@ linkmaker.itunes.apple.com
 www.msn.com
 msn.com
 www.sdad.guru
+exchange.buzzoola.com
+info.price.nadavi.ru
+static.aio.media
 
 # malware
 bitbucker.org
