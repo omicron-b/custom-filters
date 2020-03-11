@@ -83,6 +83,10 @@ www.sdad.guru
 exchange.buzzoola.com
 info.price.nadavi.ru
 static.aio.media
+app.comagic.ru
+comagic.ru
+www.comagic.ru
+sovetnik-off.ru
 
 # malware
 bitbucker.org
