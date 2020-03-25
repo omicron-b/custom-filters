@@ -65,6 +65,8 @@ www.pppefa.com
 www.ppmxfa.com
 www.forcis.claro.com.co
 pbs.alfasense.com
+www.marketagent.com
+marketagent.com
 
 # adware
 aflt.market.yandex.ru
