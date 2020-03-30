@@ -67,6 +67,7 @@ www.forcis.claro.com.co
 pbs.alfasense.com
 www.marketagent.com
 marketagent.com
+sentry.io
 
 # adware
 aflt.market.yandex.ru
