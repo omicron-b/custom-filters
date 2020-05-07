@@ -42,8 +42,6 @@ widget.intercom.io
 js.intercomcdn.com
 js.recurly.com
 api.recurly.com
-js.braintreegateway.com
-api.braintreegateway.com
 frontend-monitoring.services.citik.ru
 www.2lqcd8s9.de
 api.consultsystems.ru
