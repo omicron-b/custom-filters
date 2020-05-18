@@ -66,6 +66,11 @@ pbs.alfasense.com
 www.marketagent.com
 marketagent.com
 sentry.io
+kraken.rambler.ru
+rcmjs.rambler.ru
+zn4ituzxtg48dutbj-houzz.siteintercept.qualtrics.com
+fotamsg-2.htc.com
+xtrapath1.izatcloud.net
 
 # adware
 aflt.market.yandex.ru
