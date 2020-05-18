@@ -532,7 +532,7 @@ gapinubuso.com
 630e51faf9a53693.com
 zyf03k.xyz
 rzviy.com
-adbutton.net,empty,important
+adbutton.net
 mahaphanin.ru
 ldkdierujjfmcn.club
 rekl2.ru
@@ -3099,7 +3099,7 @@ redexchange.net
 redflu.ru
 redsquare.rambler.ru
 redsurf.ru
-redtram.com,empty
+redtram.com
 redvase.bravenet.com
 refbanners.website
 refer.ru
