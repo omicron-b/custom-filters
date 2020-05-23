@@ -1,5 +1,6 @@
 # This is a blocklist for Pi-hole.
 
+ya.ru
 www.ok.ru
 ok.ru
 www.odnoklassniki.ru
