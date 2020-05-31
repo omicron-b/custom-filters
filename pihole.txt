@@ -74,6 +74,7 @@ fotamsg-2.htc.com
 xtrapath1.izatcloud.net
 
 # adware
+main.zdevx.yandex.ru
 aflt.market.yandex.ru
 sovetnik.market.yandex.ru
 share.yandex.ru
