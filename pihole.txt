@@ -7,6 +7,8 @@ www.odnoklassniki.ru
 odnoklassniki.ru
 www.mail.ru
 mail.ru
+www.pets.mail.ru
+pets.mail.ru
 rs.mail.ru
 r3.mail.ru
 sp.mycdn.ru
