@@ -1,10 +1,23 @@
 # This is a blocklist for Pi-hole.
 
 ya.ru
+
 www.ok.ru
 ok.ru
 www.odnoklassniki.ru
 odnoklassniki.ru
+www.youla.ru
+youla.ru
+www.delivery-club.ru
+delivery-club.ru
+www.youdrive.today
+youdrive.today
+www.geekbrains.ru
+geekbrains.ru
+www.skillbox.ru
+skillbox.ru
+www.city-mobil.ru
+city-mobil.ru
 www.mail.ru
 mail.ru
 www.pets.mail.ru
@@ -19,6 +32,11 @@ pimg.mycdn.ru
 pimg.mycdn.me
 i.mycdn.ru
 i.mycdn.me
+
+www.rambler.ru
+rambler.ru
+www.okko.tv
+okko.tv
 
 # trackers
 report.appmetrica.yandex.net
