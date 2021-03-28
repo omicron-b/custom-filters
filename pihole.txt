@@ -109,6 +109,7 @@ s-ring.s-9999.s-msedge.net
 s-9999.s-msedge.net
 atm-fp-direct.office.com
 outlook-exo.trafficmanager.net
+tabletcaptiveportal.com
 
 # adware
 main.zdevx.yandex.ru
