@@ -161,3 +161,6 @@ telemetry.jivosite.com
 # see https://github.com/ccrama/Slide/issues/3129
 ccrama.me
 www.ccrama.me
+
+# misc
+presence.gog.com # used by GOG Galaxy 2.0 client to set online status, see gogapidocs.readthedocs.io/en/latest/galaxy.html
