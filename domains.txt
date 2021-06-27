@@ -60,6 +60,7 @@ ba63ffe1b76c7a5a606e9e68bdfcbefb.fp.measure.office.com
 bethowenru.push.world
 bitrix.info
 cdn.envybox.io
+cdn.retailrocket.ru
 code.acstat.com
 consent.cookiebot.com
 consultsystems.ru
@@ -85,6 +86,7 @@ outlook-exo.trafficmanager.net
 pbs.alfasense.com
 rcmjs.rambler.ru
 report.appmetrica.yandex.net
+retailrocket.ru
 rockcnt.com
 rosenberg.appmetrica.yandex.net
 s-9999.s-msedge.net
@@ -147,6 +149,8 @@ chat.chatra.io
 code.jivosite.com
 files.jivosite.com
 jivosite.com
+livechat.chat2desk.com
+livechatv2.chat2desk.com
 node341.jivosite.com
 static.chatra.io
 telemetry.jivosite.com
