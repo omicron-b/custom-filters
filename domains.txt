@@ -10,6 +10,7 @@ geekbrains.ru
 i.mycdn.me
 i.mycdn.ru
 mail.ru
+news.mail.ru
 odnoklassniki.ru
 ok.ru
 pets.mail.ru
@@ -26,6 +27,7 @@ www.city-mobil.ru
 www.delivery-club.ru
 www.geekbrains.ru
 www.mail.ru
+www.news.mail.ru
 www.odnoklassniki.ru
 www.ok.ru
 www.pets.mail.ru
