@@ -29,6 +29,7 @@
 !block ads
 
 mail.yandex.ru###bk-stripe
+||*.aptekakrem.com/img/banners/
 
 !block all facebook domains
 !imported from https://github.com/omicron-b/fb-filters
