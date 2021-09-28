@@ -5,7 +5,7 @@
 !block whole domains
 
 ||nadavi.ru^
-
+||translate.google.com^
 ||jivosite.com^
 
 ||ok.ru^
