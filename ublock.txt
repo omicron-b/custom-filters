@@ -2,6 +2,9 @@
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by-sa/4.0/
 
+!block local port sniffing
+||127.0.0.1^
+
 !block whole domains
 
 ||nadavi.ru^
