@@ -1,0 +1,18 @@
+! Title: Custom blocked domains (non-breaking rules)
+! Expires: 1 days (update frequency)
+! License: http://creativecommons.org/licenses/by-sa/4.0/
+
+!block local port sniffing
+||127.0.0.1^
+
+!block whole domains
+
+||aflt.market.yandex.ru^
+||sovetnik.market.yandex.ru^
+||share.yandex.ru^
+||share.yandex.net^
+
+!block ads
+
+mail.yandex.ru###bk-stripe
+||*.aptekakrem.com/img/banners/
