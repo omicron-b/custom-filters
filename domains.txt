@@ -166,3 +166,4 @@ www.ccrama.me
 
 # misc
 presence.gog.com # used by GOG Galaxy 2.0 client to set online status, see gogapidocs.readthedocs.io/en/latest/galaxy.html
+otaserver.hmdglobal.net # testing
