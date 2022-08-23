@@ -1,8 +1,5 @@
 # This is a blocklist for a DNS resolver.
 
-# technical
-ya.ru
-
 # sanctions
 city-mobil.ru
 delivery-club.ru
@@ -10,6 +7,7 @@ geekbrains.ru
 i.mycdn.me
 i.mycdn.ru
 mail.ru
+dzen.ru
 news.mail.ru
 odnoklassniki.ru
 ok.ru
