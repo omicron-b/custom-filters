@@ -3,6 +3,7 @@
 # sanctions
 city-mobil.ru
 delivery-club.ru
+e.mail.ru
 geekbrains.ru
 i.mycdn.me
 i.mycdn.ru
