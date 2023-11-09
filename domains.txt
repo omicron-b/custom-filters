@@ -8,6 +8,7 @@ geekbrains.ru
 i.mycdn.me
 i.mycdn.ru
 mail.ru
+dobro.mail.ru
 dzen.ru
 news.mail.ru
 odnoklassniki.ru
@@ -117,6 +118,72 @@ www.pppefa.com
 xtrapath1.izatcloud.net
 zn4ituzxtg48dutbj-houzz.siteintercept.qualtrics.com
 
+# trackers and ads extra
+app-measurement.com
+analytics.google.com
+click.googleanalytics.com
+google-analytics.com
+ssl.google-analytics.com
+mouseflow.com
+cdn.mouseflow.com
+o2.mouseflow.com
+gtm.mouseflow.com
+api.mouseflow.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
+adm.hotjar.com
+identify.hotjar.com
+insights.hotjar.com
+script.hotjar.com
+surveys.hotjar.com
+careers.hotjar.com
+fwtracks.freshmarketer.com
+stats.wp.com
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+app.getsentry.com
+pixel.facebook.com
+an.facebook.com
+static.ads-twitter.com
+ads-api.twitter.com
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+ads.pinterest.com
+log.pinterest.com
+analytics.pinterest.com
+trk.pinterest.com
+events.redditmedia.com
+analytics.tiktok.com
+ads-sg.tiktok.com
+business-api.tiktok.com
+ads.tiktok.com
+log.byteoversea.com
+ads.youtube.com
+ads.yahoo.com
+analytics.yahoo.com
+geo.yahoo.com
+udc.yahoo.com
+udcm.yahoo.com
+advertising.yahoo.com
+analytics.query.yahoo.com
+partnerads.ysm.yahoo.com
+log.fc.yahoo.com
+gemini.yahoo.com
+adtech.yahooinc.com
+extmaps-api.yandex.net
+appmetrica.yandex.ru
+adfstat.yandex.ru
+metrika.yandex.ru
+advertising.yandex.ru
+offerwall.yandex.net
+adfox.yandex.ru
+auction.unityads.unity3d.com
+webview.unityads.unity3d.com
+config.unityads.unity3d.com
+adserver.unityads.unity3d.com
+
 # adware
 aflt.market.yandex.ru
 api.hh.ru
@@ -140,6 +207,15 @@ www.comagic.ru
 www.kupivkredit.ru
 www.msn.com
 www.sdad.guru
+
+# adware extra
+ads30.adcolony.com
+adc3-launch.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+static.media.net
+media.net
+adservetx.media.net
 
 # malware
 bitbucker.org
@@ -166,3 +242,44 @@ www.ccrama.me
 # misc
 presence.gog.com # used by GOG Galaxy 2.0 client to set online status, see gogapidocs.readthedocs.io/en/latest/galaxy.html
 otaserver.hmdglobal.net # testing
+
+# OEMs
+iot-eu-logser.realme.com
+iot-logser.realme.com
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+adsfs.oppomobile.com
+adx.ads.oppomobile.com
+ck.ads.oppomobile.com
+data.ads.oppomobile.com
+click.oneplus.cn
+open.oneplus.net
+api.ad.xiaomi.com
+data.mistat.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+sdkconfig.ad.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+globalapi.ad.xiaomi.com
+tracking.rus.miui.com
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
+grs.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+logbak.hicloud.com
+samsungads.com
+smetrics.samsung.com
+nmetrics.samsung.com
+samsung-com.112.2o7.net
+analytics-api.samsunghealthcn.com
+advertising.apple.com
+tr.iadsdk.apple.com
+iadsdk.apple.com
+metrics.icloud.com
+metrics.apple.com
+metrics.mzstatic.com
+api-adservices.apple.com
+books-analytics-events.apple.com
+weather-analytics-events.apple.com
+notes-analytics-events.apple.com
