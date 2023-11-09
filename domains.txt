@@ -8,6 +8,7 @@ geekbrains.ru
 i.mycdn.me
 i.mycdn.ru
 mail.ru
+dobro.mail.ru
 dzen.ru
 news.mail.ru
 odnoklassniki.ru
@@ -116,6 +117,22 @@ www.ppmxfa.com
 www.pppefa.com
 xtrapath1.izatcloud.net
 zn4ituzxtg48dutbj-houzz.siteintercept.qualtrics.com
+
+# trackers extra
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advertising-api-eu.amazon.com
+mediavisor.doubleclick.net
+events.hotjar.io
+freshmarketer.com
+claritybt.freshmarketer.com
+api.luckyorange.com
+realtime.luckyorange.com
+browser.sentry-cdn.com
+events.reddit.com
+widgets.pinterest.com
+ads-api.tiktok.com
+analytics-sg.tiktok.com
 
 # adware
 aflt.market.yandex.ru
