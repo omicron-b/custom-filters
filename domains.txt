@@ -1,6 +1,7 @@
 # This is a blocklist for a DNS resolver.
 
 # sanctions
+boosty.to
 city-mobil.ru
 delivery-club.ru
 e.mail.ru
