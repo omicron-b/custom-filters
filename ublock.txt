@@ -7,6 +7,8 @@
 
 !block whole domains
 
+||rutube.ru^
+
 ||nadavi.ru^
 ||translate.google.com^
 ||jivosite.com^
@@ -14,14 +16,12 @@
 ||ok.ru^
 ||www.odnoklassniki.ru^
 ||odnoklassniki.ru^
-
 ||vk.com^
+||mail.ru^
 
 ||sendsay.ru^
 
 ||top100.ru^
-
-||mail.ru^
 
 ||aflt.market.yandex.ru^
 ||sovetnik.market.yandex.ru^
