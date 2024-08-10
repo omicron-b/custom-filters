@@ -1,13 +1,17 @@
 # This is a blocklist for a DNS resolver.
 
 # sanctions
+bar.love.mail.ru
 boosty.to
 city-mobil.ru
+connect.ok.ru
 delivery-club.ru
 e.mail.ru
+filin.mail.ru
 geekbrains.ru
 i.mycdn.me
 i.mycdn.ru
+imap.mail.ru
 mail.ru
 dobro.mail.ru
 dzen.ru
@@ -17,9 +21,11 @@ ok.ru
 pets.mail.ru
 pimg.mycdn.me
 pimg.mycdn.ru
+portal.mail.ru
 r3.mail.ru
 rs.mail.ru
 skillbox.ru
+smtp.mail.ru
 sp.mycdn.me
 sp.mycdn.ru
 st.mycdn.me
@@ -45,6 +51,18 @@ www.okko.tv
 www.rambler.ru
 
 # trackers
+cloud.roistat.com
+m-12521.fp.kaspersky-labs.com
+ru.id.group-ib.com
+csdkapi-policy.adobe.com
+adobecorp.sc.omtrdc.net
+cc-api-data.adobe.io
+mobile-logs.vkusvill.ru
+services.gfe.nvidia.com
+bzib.nelreports.net
+deff.nelreports.net
+wcm.weborama-tech.ru
+
 14f1bf557e4426625fc4942e50c04987.fp.measure.office.com
 5bc52c59c340081d12916afe5035dc6c.fp.measure.office.com
 623912eb729bf250f295503bf9c65229.fp.measure.office.com
@@ -52,6 +70,7 @@ www.rambler.ru
 7bd8b1cf9fd8a8435056dbfc208a158f.fp.measure.office.com
 90efb288f525681a1521ed314e0dba5d.fp.measure.office.com
 adtrak.org
+adobecorp.data.adobedc.net
 ams-efz.office.com
 api.consultsystems.ru
 api.flocktory.com
@@ -72,6 +91,7 @@ dapi.hmdglobal.net
 deceeffdf932cc28de7b33cc61bac617.fp.measure.office.com
 dsm-efz.office.com
 dub-efz.office.com
+firebase-settings.crashlytics.com
 fotamsg-2.htc.com
 frontend-monitoring.services.citik.ru
 get.shoppilot.ru
@@ -180,6 +200,10 @@ offerwall.yandex.net
 adfox.yandex.ru
 
 # adware
+pb.adriver.ru
+senoval.cdn.sports.ru
+taxi-promotions.s3.yandex.net
+
 aflt.market.yandex.ru
 api.hh.ru
 app.comagic.ru
@@ -215,8 +239,11 @@ jivosite.com
 livechat.chat2desk.com
 livechatv2.chat2desk.com
 node341.jivosite.com
+vi-sber1-21.jivo.ru
+node-sber1-az1-24.jivo.ru
 static.chatra.io
 telemetry.jivosite.com
+telemetry.jivo.ru
 
 # optimization
 # Reddit unofficial client Slide resolves these, but does not send any data
@@ -228,6 +255,8 @@ www.ccrama.me
 # misc
 presence.gog.com # used by GOG Galaxy 2.0 client to set online status, see gogapidocs.readthedocs.io/en/latest/galaxy.html
 otaserver.hmdglobal.net # testing
+dm.htcsense.com
+www.htc.com
 
 # OEMs
 iot-eu-logser.realme.com
