@@ -62,6 +62,21 @@ services.gfe.nvidia.com
 bzib.nelreports.net
 deff.nelreports.net
 wcm.weborama-tech.ru
+w-22900.fp.kaspersky-labs.com
+romanovka.fp.kaspersky-labs.com
+ts.tracker-api.my.com
+ip4.tracker-api.my.com
+firebaselogging-pa.googleapis.com
+pushserver.mfms.ru
+pushserver.edna.ru
+sys.refocus.ru
+analytics.divan.ru
+user-vector-info.wb.ru
+sys.datadrivenpromotion.com
+cdn.uxfeedback.ru
+widget-api.uxfeedback.ru
+launches.appsflyersdk.com
+inapps.appsflyersdk.com
 
 14f1bf557e4426625fc4942e50c04987.fp.measure.office.com
 5bc52c59c340081d12916afe5035dc6c.fp.measure.office.com
@@ -254,7 +269,9 @@ www.ccrama.me
 
 # misc
 presence.gog.com # used by GOG Galaxy 2.0 client to set online status, see gogapidocs.readthedocs.io/en/latest/galaxy.html
-otaserver.hmdglobal.net # testing
+otaserver.hmdglobal.net
+cps.hmdglobal.net
+dms-no-ww.hmdglobal.net
 dm.htcsense.com
 www.htc.com
 
