@@ -153,6 +153,8 @@ www.ppmxfa.com
 www.pppefa.com
 xtrapath1.izatcloud.net
 zn4ituzxtg48dutbj-houzz.siteintercept.qualtrics.com
+telemetry.codefinity.com
+cc.calltracking.ru
 
 # trackers extra
 analyticsengine.s3.amazonaws.com
@@ -259,6 +261,8 @@ node-sber1-az1-24.jivo.ru
 static.chatra.io
 telemetry.jivosite.com
 telemetry.jivo.ru
+node-sber1-az1-22.jivo.ru
+node-sber1-az1-23.jivosite.com
 
 # optimization
 # Reddit unofficial client Slide resolves these, but does not send any data
