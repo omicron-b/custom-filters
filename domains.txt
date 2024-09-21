@@ -155,6 +155,7 @@ xtrapath1.izatcloud.net
 zn4ituzxtg48dutbj-houzz.siteintercept.qualtrics.com
 telemetry.codefinity.com
 cc.calltracking.ru
+ru.id.facct.ru
 
 # trackers extra
 analyticsengine.s3.amazonaws.com
@@ -220,6 +221,10 @@ adfox.yandex.ru
 pb.adriver.ru
 senoval.cdn.sports.ru
 taxi-promotions.s3.yandex.net
+ssp.hybrid.ai
+ssp.afp.ai
+ssp.al-adtech.com
+cdn.advertronic.io
 
 aflt.market.yandex.ru
 api.hh.ru
