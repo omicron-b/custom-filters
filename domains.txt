@@ -156,6 +156,7 @@ zn4ituzxtg48dutbj-houzz.siteintercept.qualtrics.com
 telemetry.codefinity.com
 cc.calltracking.ru
 ru.id.facct.ru
+ipinfo.io
 
 # trackers extra
 analyticsengine.s3.amazonaws.com
