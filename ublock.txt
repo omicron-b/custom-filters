@@ -8,6 +8,7 @@
 !block whole domains
 
 ||rutube.ru^
+||vkvideo.ru^
 
 ||nadavi.ru^
 ||translate.google.com^
