@@ -12,6 +12,8 @@ geekbrains.ru
 i.mycdn.me
 i.mycdn.ru
 imap.mail.ru
+live.vkvideo.ru
+m.vkvideo.ru
 mail.ru
 dobro.mail.ru
 dzen.ru
@@ -30,6 +32,7 @@ sp.mycdn.me
 sp.mycdn.ru
 st.mycdn.me
 st.mycdn.ru
+vkvideo.ru
 www.city-mobil.ru
 www.delivery-club.ru
 www.geekbrains.ru
@@ -49,6 +52,9 @@ okko.tv
 rambler.ru
 www.okko.tv
 www.rambler.ru
+
+# unsolicited dns
+chrome.cloudflare-dns.com
 
 # trackers
 cloud.roistat.com
