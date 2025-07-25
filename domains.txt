@@ -32,6 +32,8 @@ sp.mycdn.me
 sp.mycdn.ru
 st.mycdn.me
 st.mycdn.ru
+tracker-api.vk-analytics.ru
+vk-analytics.ru
 vkvideo.ru
 www.city-mobil.ru
 www.delivery-club.ru
