@@ -59,6 +59,9 @@ www.rambler.ru
 chrome.cloudflare-dns.com
 
 # trackers
+api.browser.yandex.ru
+api.messenger.yandex.net
+api-statist.tinkoff.ru
 cloud.roistat.com
 m-12521.fp.kaspersky-labs.com
 ru.id.group-ib.com
