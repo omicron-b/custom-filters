@@ -19,6 +19,8 @@
 ||odnoklassniki.ru^
 ||vk.com^
 ||mail.ru^
+||max.ru^
+||oneme.ru^
 
 ||sendsay.ru^
 
@@ -29,6 +31,9 @@
 ||share.yandex.ru^
 ||share.yandex.net^
 ||zen.yandex.ru^
+
+!block AI slop
+ecosia.org##.result__body:has(a[href*="linuxvox.com"])
 
 !block ads
 
