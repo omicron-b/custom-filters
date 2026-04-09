@@ -1,0 +1,36 @@
+    "rules": [
+    {
+      "domainMatcher": "hybrid",
+      "type": "field",
+      "domain": ["domain:xn--p1ai", "domain:ru", "domain:su", "domain:moscow", "domain:vk.com", "domain:vk.me", "domain:userapi.com",
+                 "domain:trueconf.net", "domain:trueconf.com", "domain:bbratstvo.com", "domain:vetapteka.am",
+                 "domain:alicdn.com", "domain:aestatic.net", "domain:aliapp.com", "domain:alibaba.com", "domain:aliexpress-media.com",
+                 "domain:aliexpress.com", "domain:mango.com", "domain:e-autopay.com", "domain:premier.one", "domain:tilda.cc",
+                 "domain:ivi.tv", "domain:wildberries.by",
+                 "domain:ru.net", "domain:netmonet.co", "domain:tips.tips", "domain:osnova.io", "domain:mashalipskaya.com",
+                 "domain:ngenix.net", "domain:t1.cloud", "domain:taxsee.com", "domain:yclients.com", "domain:lenta.com",
+                 "domain:fix-price.com", "domain:emias.info", "domain:medsi.com", "domain:medsi.pro", "domain:cdnvideohub.com",
+                 "domain:trbcdn.net", "domain:kinorium.com", "domain:boosty.to", "domain:donationalerts.com", "domain:memealerts.com",
+                 "domain:tamtam.chat", "domain:telega.info", "domain:telega.me", "domain:youla.io", "domain:vk.cc", "domain:mradx.net",
+                 "domain:mvk.com", "domain:vk-apps.com", "domain:vk-cdn.me", "domain:vk-cdn.net", "domain:vk-portal.net", "domain:vk.company",
+                 "domain:vk.design", "domain:vk.link", "domain:vk.team", "domain:vkcache.com", "domain:vkgo.app", "domain:vklive.app",
+                 "domain:vkmessenger.app", "domain:vkmessenger.com", "domain:vkuser.net", "domain:vkuseraudio.com", "domain:vkuseraudio.net",
+                 "domain:vkuservideo.com", "domain:vkuservideo.net", "domain:naydex.net", "domain:rostaxi.org",
+                 "domain:turbopages.org", "domain:webvisor.com", "domain:webvisor.org", "domain:yads.tech", "domain:yandex-bank.net",
+                 "domain:clstorage.net", "domain:yastat.net", "domain:static-storage.net",
+                 "domain:fitnessbabbie.info", "domain:fitnessbabbie.by", "domain:ozon.by", "domain:ozon.com", "domain:ozon.com.by",
+                 "domain:ozon.com.kz", "domain:ozon.kz", "domain:ozon.tm", "domain:ozonru.me", "domain:ozonusercontent.com",
+                 "domain:avito.st", "domain:vkontakte.com", "domain:vkuserlive.com", "domain:vkuserlive.net", "domain:vkpay.io",
+                 "domain:vkpay.com", "domain:vkpay.app", "domain:vkcs.cloud", "domain:mycdn.me", "domain:ok.me", "domain:vmailru.net",
+                 "domain:smailru.net", "domain:my.games", "domain:algoritmika.org", "domain:umschool.net",
+                 "domain:sberbank-tele.com", "domain:sberbank.com", "domain:2gis.com",
+                 "domain:wbstatic.net", "domain:paywb.com", "domain:wbdevel.net", "domain:meteum.ai", "domain:shedevrum.ai",
+                 "domain:sourcecraft.dev", "domain:ya.cc", "domain:ya.com", "domain:yastatic.net", "domain:habr.com",
+                 "keyword:yandex"],
+      "network": "tcp,upd",
+      "inboundTag": "vless_tls",
+      "outboundTag": "block",
+      "ruleTag": "blockRu"
+    }
+    ]
+
