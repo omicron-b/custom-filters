@@ -16,7 +16,7 @@
                    "domain:vkmessenger.app", "domain:vkmessenger.com", "domain:vkuser.net", "domain:vkuseraudio.com", "domain:vkuseraudio.net",
                    "domain:vkuservideo.com", "domain:vkuservideo.net", "domain:naydex.net", "domain:rostaxi.org",
                    "domain:turbopages.org", "domain:webvisor.com", "domain:webvisor.org", "domain:yads.tech", "domain:yandex-bank.net",
-                   "domain:clstorage.net", "domain:yastat.net", "domain:static-storage.net",
+                   "domain:clstorage.net", "domain:yastat.net", "domain:static-storage.net", "domain:promo.page",
                    "domain:fitnessbabbie.info", "domain:fitnessbabbie.by", "domain:ozon.by", "domain:ozon.com", "domain:ozon.com.by",
                    "domain:ozon.com.kz", "domain:ozon.kz", "domain:ozon.tm", "domain:ozonru.me", "domain:ozonusercontent.com",
                    "domain:avito.st", "domain:vkontakte.com", "domain:vkuserlive.com", "domain:vkuserlive.net", "domain:vkpay.io",
@@ -31,4 +31,3 @@
         "ruleTag": "blockRu"
       }
     ]
-
