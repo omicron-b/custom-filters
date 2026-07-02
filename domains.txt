@@ -244,18 +244,11 @@ offerwall.yandex.net
 adfox.yandex.ru
 
 # adware
-pb.adriver.ru
-senoval.cdn.sports.ru
-taxi-promotions.s3.yandex.net
-ssp.hybrid.ai
-ssp.afp.ai
-ssp.al-adtech.com
-cdn.advertronic.io
-
 aflt.market.yandex.ru
 api.hh.ru
 app.comagic.ru
 bidder.criteo.com
+cdn.advertronic.io
 comagic.ru
 exchange.buzzoola.com
 financelife.ru
@@ -265,11 +258,18 @@ main.zdevx.yandex.ru
 msn.com
 my.zadarma.com
 nadavi.ru
+pb.adriver.ru
+promo.page
+senoval.cdn.sports.ru
 share.yandex.net
 share.yandex.ru
 sovetnik.market.yandex.ru
 sovetnik-off.ru
+ssp.hybrid.ai
+ssp.afp.ai
+ssp.al-adtech.com
 static.aio.media
+taxi-promotions.s3.yandex.net
 www.comagic.ru
 www.kupivkredit.ru
 www.msn.com
